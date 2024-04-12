@@ -89,6 +89,9 @@
    "source": [
     "pip install gradio"
    ]
+   "source": [
+    "pip install gtts"
+   ]
   },
   {
    "cell_type": "markdown",
