@@ -257,7 +257,7 @@
     "import os\n",
     "from IPython.display import display, Markdown\n",
     "\n",
-    "openai.api_key = \"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\"\n",
+    "openai.api_key = \"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",
     "\n",
     "def generate_voice_and_answer(question):\n",
     "    try:\n",
